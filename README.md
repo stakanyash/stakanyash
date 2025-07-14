@@ -1,16 +1,21 @@
-### So. If you're reading this, it means you want to find something here, right?
+<div align="center">
+
+## So. If you're reading this, it means you want to find something here, right?
+  
+### Let's start from the beginning. 
+
+</div>
 
 ---
 
-### Let's start from the beginning. 
-My name is **Nikita** and I create modifications and various projects that are somehow related to the game **Hard Truck Apocalypse** by **Targem Games**. 
+My name is **Nikita (Russian analogue of the name Nick)**, born and live in Russia and I create modifications and various projects that are somehow related to the game **Ex Machina/Hard Truck Apocalypse** by **Targem Games**. 
 
-Honestly, I have no idea what else I can add about myself here. I also do content making on [YouTube](https://youtube.com/@stakanyash). But that's another story.
+Honestly, I have no idea what else I can add about myself here. I also do content making on [YouTube](https://youtube.com/@stakanyash). But that's another story. ~~Because it's more sh*tpost than content.~~
 
 If you looking for my mods or projects you can find list down below.
 
 ---
-
+  
 ### My HTA mods:
 
 - **[Doomer Wave (HTA)](https://github.com/stakanyash/DoomerWave)**

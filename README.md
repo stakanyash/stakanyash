@@ -15,20 +15,30 @@ Honestly, I have no idea what else I can add about myself here. I also do conten
 If you looking for my mods or projects you can find list down below.
 
 ---
-  
+<div align="center">
+
 ### My HTA mods:
+
+</div>
 
 - **[Doomer Wave (HTA)](https://github.com/stakanyash/DoomerWave)** - atmosphere mod with depressive tone
 - **[Haadotorakku no Mokushiroku (HTA)](https://github.com/stakanyash/Haadotorakku_no_Mokushiroku)** - Japanese machine translation mod
 - **[The Chronicle of Hamza (HTA)](https://github.com/stakanyash/The-Chronicle-of-Hamza)** - spin-off story about 2011 catastrophe origins in 4th region
 ---
+<div align="center">
+
 ### Gamedev projects:
+
+</div>
 
 - **[Hard Truck Apocalypse: Ren'Py](https://github.com/stakanyash/hta_renpy)** - porting Hard Truck Apocalypse to Ren'Py visual novel engine. Work in progress, public version is a demo.
 
 ---
+<div align="center">
 
 ### My Python projects:
+
+</div>
 
 - **[displace.bin GUI converter](https://github.com/stakanyash/displacebin_gui_converter)** - HTA heightmap converter (inspired by **[ThePlain](https://github.com/ThePlain)** convertion script)
 - **[HTA strings.xml to JSON parser](https://github.com/stakanyash/ExM_strings_to_JSON)** - extracting dialogs from strings.xml file to JSON file

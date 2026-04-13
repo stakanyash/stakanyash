@@ -45,9 +45,9 @@ If you looking for my mods or projects you can find list down below.
 - **[DisplaceBox](https://github.com/stakanyash/displacebin_gui_converter)** - HTA heightmap converter (inspired by **[ThePlain](https://github.com/ThePlain)** convertion script)
 - **[HTA strings.xml to JSON parser](https://github.com/stakanyash/ExM_strings_to_JSON)** - extracting dialogs from strings.xml file to JSON file
 - **[Bot for Discord server](https://github.com/stakanyash/discord_stakan_bot)** - currently used on my **[Discord server](https://discord.gg/5UAjrrsM5B)**
-- **[YT Downloader](https://github.com/stakanyash/ytdownloader)** - desktop app (PyQt5 + yt-dlp) for downloading YT videos with queues, cookies, and ISP bypass.
 
 #### Legacy:
 
 - **[Bot for Telegram channel](https://github.com/stakanyash/telegram_stakan_bot)** - used in my **[Telegram channel](https://t.me/stakanyasher)** until June 2025
 - **[Flet Calculator](https://github.com/stakanyash/Flet-Calculator)** - simple calculator based on flet for Windows and Android. Not updated since October 2024.
+- - **[YT Downloader](https://github.com/stakanyash/ytdownloader)** - desktop app (PyQt5 + yt-dlp) for downloading YT videos with queues, cookies, and ISP bypass.

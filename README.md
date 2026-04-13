@@ -50,4 +50,4 @@ If you looking for my mods or projects you can find list down below.
 
 - **[Bot for Telegram channel](https://github.com/stakanyash/telegram_stakan_bot)** - used in my **[Telegram channel](https://t.me/stakanyasher)** until June 2025
 - **[Flet Calculator](https://github.com/stakanyash/Flet-Calculator)** - simple calculator based on flet for Windows and Android. Not updated since October 2024.
-- - **[YT Downloader](https://github.com/stakanyash/ytdownloader)** - desktop app (PyQt5 + yt-dlp) for downloading YT videos with queues, cookies, and ISP bypass.
+- **[YT Downloader](https://github.com/stakanyash/ytdownloader)** - desktop app (PyQt5 + yt-dlp) for downloading YT videos with queues, cookies, and ISP bypass.

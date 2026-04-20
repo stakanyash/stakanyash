@@ -43,7 +43,7 @@ If you looking for my mods or projects you can find list down below.
 #### Active:
 
 - **[DisplaceBox](https://github.com/stakanyash/displacebin_gui_converter)** - HTA heightmap converter (inspired by **[ThePlain](https://github.com/ThePlain)** convertion script)
-- **[HTA strings.xml to JSON parser](https://github.com/stakanyash/ExM_strings_to_JSON)** - extracting dialogs from strings.xml file to JSON file
+- **[HTA Dialogs to JSON parser](https://github.com/stakanyash/ExM_dialogs_to_JSON)** - extracting dialogs from `strings.xml` or `dialogsglobal.xml` file to JSON
 - **[Bot for Discord server](https://github.com/stakanyash/discord_stakan_bot)** - currently used on my **[Discord server](https://discord.gg/5UAjrrsM5B)**
 
 #### Legacy:
